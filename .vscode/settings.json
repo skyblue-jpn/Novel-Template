@@ -19,5 +19,6 @@
         }
     ],
     "textlint.autoFixOnSave": true,
-    "textlint.run": "onSave"
+    "textlint.run": "onSave",
+    "textlint.targetPath": "./Draft/*[0-9][0-9][0-9].md"
 }

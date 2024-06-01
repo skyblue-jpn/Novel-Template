@@ -30,6 +30,8 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if this project helped you!
 
+## 前提
+
 -   説明に用いる環境は次のとおり。
     -   Visual Studio Code
         -   前提となる拡張機能は次のとおり。

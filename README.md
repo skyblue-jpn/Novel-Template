@@ -31,8 +31,6 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 Give a ⭐️ if this project helped you!
 
 -   説明に用いる環境は次のとおり。
-    -   Microsoft Windows [Version 10.0.22621.2283]
-        -   Microsoft Windows 11 Pro を使用しています。Home や Enterprise で前提条件を満たせるかは不明です。
     -   Visual Studio Code
         -   前提となる拡張機能は次のとおり。
             ```

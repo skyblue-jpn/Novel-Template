@@ -1,0 +1,19 @@
+{
+    "recommendations": [
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
+        "formulahendry.code-runner",
+        "github.vscode-github-actions",
+        "GitHub.vscode-pull-request-github",
+        "haoblackj.convertwidth4novelwriter",
+        "KnisterPeter.vscode-commitizen",
+        "me-dutour-mathieu.vscode-github-actions",
+        "mhutchie.git-graph",
+        "pucelle.run-on-save",
+        "redhat.vscode-yaml",
+        "taichi.vscode-textlint",
+        "TaiyoFujii.japanese-morpheme-handler",
+        "TaiyoFujii.novel-writer"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "Novel.general.filetype": ".md",
+    "[novel]": {
+        "editor.defaultFormatter": null,
+        "editor.formatOnSave": false,
+        "files.insertFinalNewline": false
+    },
+    "code-runner.executorMap": {
+        "novel": "npm run novel-build"
+    },
+    "extensions.ignoreRecommendations": false,
+    "files.associations": {
+        "*[0-9][0-9][0-9].md": "novel"
+    },
+    "runOnSave.commands": [
+        {
+            "command": "npm run novel-proofread ${file} && sed -i '$ d' ${file}",
+            "match": "./*[0-9][0-9][0-9].md"
+        }
+    ],
+    "textlint.autoFixOnSave": true,
+    "textlint.run": "onSave"
+}

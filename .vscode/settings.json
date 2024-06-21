@@ -6,7 +6,7 @@
         "files.insertFinalNewline": false
     },
     "code-runner.executorMap": {
-        "novel": "npm run novel-build"
+        "novel": "yarn run novel-build"
     },
     "extensions.ignoreRecommendations": false,
     "files.associations": {
@@ -14,7 +14,7 @@
     },
     "runOnSave.commands": [
         {
-            "command": "npm run novel-proofread ${file} && sed -i '$ d' ${file}",
+            "command": "yarn run novel-proofread ${file} && sed -i '$ d' ${file}",
             "match": "./*[0-9][0-9][0-9].md"
         }
     ],

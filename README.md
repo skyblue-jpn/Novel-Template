@@ -104,11 +104,11 @@ Give a ⭐️ if this project helped you!
 
 -   拡張機能 `run-on-save` が有効化されていると、ファイルを保存するたびに以下のコードが実行され自動校正が行われる。
     ```bash:Run on Save
-    npm run novel-proofread ${file} && sed -i '$ d' ${file}
+    yarn run novel-proofread ${file} && sed -i '$ d' ${file}
     ```
 -   拡張機能 `code-runner` が有効化されていると、実行ボタンを押すたびに以下のコードが実行されファイル変換が行われる。
     ```bash:Run on Save
-    npm run novel-build
+    yarn run novel-build
     ```
 
 ## 📝 License
